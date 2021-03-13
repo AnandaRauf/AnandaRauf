@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself company(Retail Tech Source).
 - 🌱 I’m currently learning software developer,software engineering, new technology product, and business.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on project open source and project private source.
 - 🤔 I’m looking for help with project open source from my friends, and from other people.
 - 💬 Ask me about software developer,software and business.
 - 📫 How to reach me: https://www.bit.ly/3cMsNop and https://wwww.linkedin.com/mwlite/ananda-rauf-maududi
