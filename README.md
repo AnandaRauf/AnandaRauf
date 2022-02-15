@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my company (Retailpedia).
+- 🔭 I’m currently working on my company (Tech Media Development): https://angel.co/company/tech-media-development.
 - 🌱 I’m currently learning software developer, software engineer, new technology product, and business.
 - 👯 I’m looking to collaborate on open source project and private source project 
 - 🤔 I’m looking for help with open source project from my friends, and from other people.
