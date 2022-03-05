@@ -31,7 +31,7 @@ Confidence Deep Understanding on :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current Roles :
-- [Founder& Owner at Tech Media Development(Media Pengembagangan Technology Indonesia Jaya)](https://angel.co/company/tech-media-development)
+- [Founder& Owner at Tech Media Development(Media Pengembangan Technology Indonesia Jaya)](https://angel.co/company/tech-media-development)
 - [Event Management at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
 - [Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
