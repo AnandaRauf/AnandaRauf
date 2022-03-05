@@ -31,19 +31,19 @@ Confidence Deep Understanding on :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current Roles :
-- [Founder& Owner at Tech Media Development(Media Pengembagangan Technology Indonesia Jaya](https://angel.co/company/tech-media-development)
+- [Founder& Owner at Tech Media Development(Media Pengembagangan Technology Indonesia Jaya)](https://angel.co/company/tech-media-development)
 - [Event Management at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
 - [Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
 Portfolios :
-- [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
-- [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Surveillance System (oldest version)
-- [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
+- [Website](anandaraufmaududi.000webhostapp.com/)
+- ![github_pin](https://www.github.com/AnandaRauf) 
+
 
 Karysakarsa,Wattpad, and Ko-fi Author :
-[KaryaKarsa](https://www.karyakarsa.com/anandaraufm)
-[Ko-fi](https://www.ko-fi.com/anandaraufdevs)
-[Wattpadd](https://www.wattpad.com/user/anandaraufm)
+- [KaryaKarsa](https://www.karyakarsa.com/anandaraufm)
+- [Ko-fi](https://www.ko-fi.com/anandaraufdevs)
+- [Wattpadd](https://www.wattpad.com/user/anandaraufm)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
