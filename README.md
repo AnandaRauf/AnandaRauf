@@ -1,15 +1,59 @@
-### Hi there 👋
+Technology Enthusiast, and Learn more understand about business.
 
-<!--
-**AnandaRauf/AnandaRauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=AnandaRauf&show_icons=true)
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on my company (Tech Media Development): https://angel.co/company/tech-media-development.
-- 🌱 I’m currently learning software developer, software engineer, new technology product, and business.
-- 👯 I’m looking to collaborate on open source project and private source project 
-- 🤔 I’m looking for help with open source project from my friends, and from other people.
-- 💬 Ask me about software developer, software engineering and business.
-- 📫 How to reach me: https://www.bit.ly/3cMsNop and https://wwww.linkedin.com/mwlite/ananda-rauf-maududi
-- 😄 Pronouns: very beginner english talking, but intermediate english writen.
-- ⚡ Fun fact: i'm very mysterious man, if you are not accquainted with me. However, if you are already close firends, I'm very friendly, and very likely to sharing knowledge and experince. And also you can collaborate with me.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Confidence Deep Understanding on :  
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>E-Commerce</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/blockchain.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Machine learning,VA & AI</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cryptography.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Integrated Development Environment</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cloud_computing.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Tools & Framework</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Current Roles :
+- [Founder& Owner at Tech Media Development(Media Pengembagangan Technology Indonesia Jaya](https://angel.co/company/tech-media-development)
+- [Event Management at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
+- [Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
+
+Portfolios :
+- [Indonesian Programming Language, Compiler & IDE](https://www.youtube.com/watch?v=b8dQ7R04piI) - [Docs](https://elib.unikom.ac.id/gdl.php?mod=browse&op=read&id=jbptunikompp-gdl-gungunfebr-36422) - Undergraduate Thesis
+- [Monnica - Monitor & Communication](https://www.youtube.com/watch?v=lCD-nvIiDQg) - Intelligence Surveillance System (oldest version)
+- [Visual Hashing](https://www.youtube.com/watch?v=GWTwwhPz9wU) - Digital Arts Generation
+
+Karysakarsa,Wattpad, and Ko-fi Author :
+[KaryaKarsa](https://www.karyakarsa.com/anandaraufm)
+[Ko-fi](https://www.ko-fi.com/anandaraufdevs)
+[Wattpadd](https://www.wattpad.com/user/anandaraufm)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Speaker :
+- [Seputar informasi teknologi dan tutorial](https://www.youtube.com/watch?v=avInXGOSajc) - Tech Education Indonesia
+
+
+Reach Me :
+[Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi) | [Instagram](https://www.instagram.com/anandaraufm/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg)
+
+𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AnandaRauf)
