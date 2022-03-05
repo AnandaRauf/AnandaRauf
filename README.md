@@ -10,19 +10,19 @@ Confidence Deep Understanding on :
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom: 30px">
         <span>E-Commerce</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/blockchain.svg">
+        <img height="64px" src="https://github.com/AnandaRauf/AnandaRauf/blob/main/asset/E-commerce.png">
       </td>
       <td width="25%" align="center">
         <span>Machine learning,VA & AI</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cryptography.svg">
+        <img height="64px" src="https://github.com/AnandaRauf/AnandaRauf/blob/main/asset/Machine%20Learning.png">
       </td>
       <td width="25%" align="center">
         <span>Integrated Development Environment</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cloud_computing.svg">
+        <img height="64px" src="https://github.com/AnandaRauf/AnandaRauf/blob/main/asset/IDE.png">
       </td>
       <td width="25%" align="center">
         <span>Tools & Framework</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
+        <img height="64px" src="https://github.com/AnandaRauf/AnandaRauf/blob/main/asset/Tools.png">
       </td>
     </tr>
   </tbody>
