@@ -37,7 +37,7 @@ Current Roles :
 
 Portfolios :
 - [Website](anandaraufmaududi.000webhostapp.com/)
-- ![github](https://www.github.com/AnandaRauf) 
+- [Github Pin](https://www.github.com/AnandaRauf) 
 
 
 Karysakarsa,Wattpad, and Ko-fi Author :
