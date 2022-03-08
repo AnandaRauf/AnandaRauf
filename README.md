@@ -54,6 +54,8 @@ Speaker :
 Reach Me :
 [Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi) | [Instagram](https://www.instagram.com/anandaraufm/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnandaRauf)
