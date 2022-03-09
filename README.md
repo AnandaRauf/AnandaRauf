@@ -5,7 +5,6 @@ Technology Enthusiast, and Learn more understand about business.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaRauf&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/AnandaRauf)
 
-[![AnandaRauf wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnandaRauf&layout=compact&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/AnandaRauf)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
