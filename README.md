@@ -52,7 +52,7 @@ Karysakarsa,Wattpad, and Ko-fi Author :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Speaker :
-- [Seputar informasi teknologi dan tutorial](https://www.youtube.com/watch?v=avInXGOSajc) - Tech Education Indonesia
+- [Seputar informasi teknologi dan tutorial](https://m.youtube.com/@techeducationindonesia8388) - Tech Education Indonesia
 
 
 Reach Me :
