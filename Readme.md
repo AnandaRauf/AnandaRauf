@@ -35,13 +35,14 @@ Confidence Deep Understanding on :
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current Roles :
-- [Founder & Owner at Tech Media Development(Media Pengembangan Technology Indonesia Jaya)](https://angel.co/company/tech-media-development)
-- [Event Management at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
-- [Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
+- [Founder & Owner at Media Pengembangan Teknologi Indonesia Jaya Inc (PT Media Pengembangan Technology Indonesia Jaya)](https://www.linkedin.com/company/pt-media-pengembangan-teknologi-indonesia-jaya/)
+- [Former Event Management Volunteer at Starter In Community(Startup Founder Indonesian Community)](https://www.instagram.com/starter.in)
+- [Former Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
-Portfolios :
+Portfolios and Company Profile:
 - [Website](anandaraufmaududi.000webhostapp.com/)
-- [Github Pin](https://www.github.com/AnandaRauf) 
+- [Github Pin](https://www.github.com/AnandaRauf)
+- [Company Profile](https://tmd-group-187de4154457.herokuapp.com/)
 
 
 Karysakarsa,Wattpad, and Ko-fi Author :
@@ -56,7 +57,7 @@ Best Channel YouTube:
 
 
 Reach Me :
-[Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi) | [Instagram](https://www.instagram.com/anandaraufm/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg)
+[Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi-) | [Instagram](https://www.instagram.com/mr_smart_hack_technology/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg) | [Youtube](https://www.youtube.com/channel/UC2RJX2hIO3pFmfCurSIqLag)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
