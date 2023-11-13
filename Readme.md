@@ -57,7 +57,7 @@ Best Channel YouTube:
 
 
 Reach Me :
-[Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi-) | [Instagram](https://www.instagram.com/mr_smart_hack_technology/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg) | [Youtube](https://www.youtube.com/channel/UC2RJX2hIO3pFmfCurSIqLag)
+[Facebook](https://www.facebook.com/gihyunjee/) | [Linkedin](https://id.linkedin.com/in/ananda-rauf-maududi-) | [Instagram](https://www.instagram.com/anandaraufm00/) | [Youtube](https://www.youtube.com/channel/UCKWffBeq7YTH6X7H52QpBPg) | [Youtube](https://www.youtube.com/channel/UC2RJX2hIO3pFmfCurSIqLag)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
