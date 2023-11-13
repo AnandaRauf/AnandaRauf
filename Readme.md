@@ -40,7 +40,7 @@ Current Roles :
 - [Former Member of GDSC ITB Bandung](https://www.instagram.com/gdscitb)
 
 Portfolios and Company Profile:
-- [Comingsoon My Website] ()
+- [Comingsoon My Website](https://tmd-group-187de4154457.herokuapp.com/)
 - [Github Pin](https://www.github.com/AnandaRauf)
 - [Company Profile](https://tmd-group-187de4154457.herokuapp.com/)
 
