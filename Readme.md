@@ -45,7 +45,7 @@ Portfolios and Company Profile:
 - [Company Profile](https://tmd-group-187de4154457.herokuapp.com/)
 
 
-Karysakarsa,Wattpad, and Ko-fi Author :
+Karya Karsa,Wattpad, and Ko-fi Author :
 - [KaryaKarsa](https://www.karyakarsa.com/anandaraufm)
 - [Ko-fi](https://www.ko-fi.com/anandaraufdevs)
 - [Wattpadd](https://www.wattpad.com/user/anandaraufm)
